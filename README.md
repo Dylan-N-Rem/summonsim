@@ -1,4 +1,4 @@
-## Summoning Simulator
+# Summoning Simulator
  A code made by me to simulate summoning food souls for the game Food Fantasy.
  * **Please note that the code is a simulator and will not affect in-game data.**
  * *If you already have Python 3.5.2 installed on your computer, skip step 1 and 2.*
