@@ -7,7 +7,7 @@
  * Step 3: Download my Python code.
  * Step 4: Once it's downloaded, you can double click it to run the code.
  * Step 5: Have fun!
-# Updates
+## Updates
  * Summoning Simulator V2: Contains two new functions
     * Second function: To continuously summon until a specific amount of a specified food soul has been summoned
     * Third function: To continuously summon until a specific amount of a specified rarity has been summoned
