@@ -8,7 +8,7 @@
  * Step 4: Once it's downloaded, you can double click it to run the code.
  * Step 5: Have fun!
 ## Updates
- * Summoning Simulator V2: Contains two new functions
+ * _24th August 2018_ ~ Summoning Simulator V2: Contains two new functions
     * Second function: To continuously summon until a specific amount of a specified food soul has been summoned
     * Third function: To continuously summon until a specific amount of a specified rarity has been summoned
- * Summoning Simulator V1: Contains one function to summons as many times as desired
+ * _23rd August 2018_ ~ Summoning Simulator V1: Contains one function to summons as many times as desired
