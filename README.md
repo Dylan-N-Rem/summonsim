@@ -13,12 +13,12 @@
    * Summon 6 times
    * Summon 1000 times
    * Inputs are now all case-insensitive
-   * Leaving the function input blank will now automatically repeat the previous action (of course the summoning results will be different; only the inputs are the same)
+   * Leaving the function input blank will now automatically repeat the previous action (the summoning results will be different; only the inputs are the same)
  * _24/8/2018_ - Summoning Simulator V2: Added two new functions
     * Second function: To continuously summon until a specific amount of a specified food soul has been summoned
     * Third function: To continuously summon until a specific amount of a specified rarity has been summoned
  * _23/8/2018_ - Summoning Simulator V1: The original program, contains one function to summons as many times as desired
 ## Special Thanks
-All the names mentioned are discord tags and all nicknames are from the official Food Fantasy Discord Server
+_All the names mentioned are discord tags and all nicknames are from the official Food Fantasy Discord Server_
 * @cyn#1598 AKA Just Marisa
 * @Madara#0483
