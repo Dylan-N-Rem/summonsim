@@ -2,14 +2,14 @@
  A code made by me to simulate summoning food souls for the game Food Fantasy.
  **Please note that the code is a simulator and will not affect in-game data.**
 ### Computer
- *If you already have Python 3.5.2 installed on your computer, skip step 1 and 2.*
+ If you already have Python 3.5.2 installed on your computer, skip step 1 and 2.
  * Step 1: Go to https://www.python.org/downloads/release/python-352/ and download Python 3.5.2.
  * Step 2: Follow the steps and install Python in your computer.
  * Step 3: Download my Python code by pressing "Clone or download", then "Download ZIP"; everything will be downloaded.
  * Step 4: After unzipping the file, you can double click it to run the code.
  * Step 5: Have fun!
 ### Mobile
- * Step 1: Search "QPython" on your Google Play Store or App Store and download it
+ * Step 1: Search "QPython" on your Google Play Store or App Store and download it (or click the link here).
    * Google Play Store: https://play.google.com/store/apps/details?id=org.qpython.qpy&hl=en_SG
    * App Store: https://itunes.apple.com/us/app/qpython/id1262366391?mt=8
  * Step 2: Once you installed the app, allow photos, media etc.
