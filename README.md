@@ -24,6 +24,7 @@
  * Step 11: Upon pressing the code file, you'll be able to see the code. On the bottom of the screen, press the "Play" button (the triangle shaped button)
  * Step 12: The code should be able to run. Have fun and enjoy!
 ## Updates
+ * _26/8/2018_ - Figured out how to use the simulator on mobile devices. Mobile users, enjoy!
  * _25/8/2018_ - Summoning Simulator V3: Added many convinience function
    * Summon once only
    * Summon 6 times
