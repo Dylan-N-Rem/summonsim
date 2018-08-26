@@ -1,12 +1,28 @@
 # Summoning Simulator
  A code made by me to simulate summoning food souls for the game Food Fantasy.
  * **Please note that the code is a simulator and will not affect in-game data.**
+### Computer
  * *If you already have Python 3.5.2 installed on your computer, skip step 1 and 2.*
  * Step 1: Go to https://www.python.org/downloads/release/python-352/ and download Python 3.5.2.
  * Step 2: Follow the steps and install Python in your computer.
  * Step 3: Download my Python code by pressing "Clone or download", then "Download ZIP"; everything will be downloaded.
- * Step 4: Once it's downloaded, you can double click it to run the code.
+ * Step 4: After unzipping the file, you can double click it to run the code.
  * Step 5: Have fun!
+### Mobile
+ * Step 1: Search "QPython" on your Google Play Store or App Store and download it
+  * Google Play Store: 
+  * App Store: 
+ * Step 2: Once you installed the app, allow photos, media etc.
+ * Step 3: Go to "More" and press "Switch to Python 3".
+ * Step 4: You'll be redirected to the App Store/Google Play Store. Download "QPy3.6".
+ * Step 5: Launch the app and allow photos, media, etc. Then press "START QPYTHON", you'll be directed back to the original QPython app
+ * Step 6: Now you should be able to use Python 3 (using Python 2 has many issues)
+ * Step 7: Come back to this website and switch to Desktop mode.
+ * Step 8: Download my Python code by pressing "Clone or download", then "Download ZIP"; everything will be downloaded.
+ * Step 9: After unzipping the file, go to the app and press "Explore".
+ * Step 10: Find the file name in "Download" called "summonsim-master". You should find the code there.
+ * Step 11: Upon pressing the code file, you'll be able to see the code. On the bottom of the screen, press the "Play" button (the triangle shaped button)
+ * Step 12: The code should be able to run. Have fun and enjoy!
 ## Updates
  * _25/8/2018_ - Summoning Simulator V3: Added many convinience function
    * Summon once only
