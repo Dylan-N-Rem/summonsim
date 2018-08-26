@@ -10,8 +10,8 @@
  * Step 5: Have fun!
 ### Mobile
  * Step 1: Search "QPython" on your Google Play Store or App Store and download it
-   * Google Play Store: 
-   * App Store: 
+   * Google Play Store: https://play.google.com/store/apps/details?id=org.qpython.qpy&hl=en_SG
+   * App Store: https://itunes.apple.com/us/app/qpython/id1262366391?mt=8
  * Step 2: Once you installed the app, allow photos, media etc.
  * Step 3: Go to "More" and press "Switch to Python 3".
  * Step 4: You'll be redirected to the App Store/Google Play Store. Download "QPy3.6".
