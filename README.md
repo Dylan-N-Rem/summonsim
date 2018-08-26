@@ -19,7 +19,7 @@
  * Step 6: Now you should be able to use Python 3 (using Python 2 has many issues)
  * Step 7: Come back to this website and switch to Desktop mode.
  * Step 8: Download my Python code by pressing "Clone or download", then "Download ZIP"; everything will be downloaded.
- * Step 9: After unzipping the file, go to the app and press "Explore".
+ * Step 9: After unzipping the file, go to the app and press "Explorer".
  * Step 10: Find the file name in "Download" called "summonsim-master". You should find the code there.
  * Step 11: Upon pressing the code file, you'll be able to see the code. On the bottom of the screen, press the "Play" button (the triangle shaped button)
  * Step 12: The code should be able to run. Have fun and enjoy!
